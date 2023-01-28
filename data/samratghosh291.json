@@ -1,0 +1,30 @@
+{
+  "name": "Samrat Ghosh",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Coding Enthusiast || Web Developer || Competative Programmar",
+  "avatar": "https://avatars.githubusercontent.com/u/583231?v=4.png",
+
+"links": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/piku_samrat490",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.instagram.com/piku_samrat/",
+      "icon": "FaInstagram"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/samratghosh291",
+      "icon": "FaGithub"
+    },
+     {
+      "name": "Instagram",
+      "url": "https://www.linkedin.com/in/samratghosh490/",
+      "icon": "FaLinkedin"
+    }  
+  ]
+}
